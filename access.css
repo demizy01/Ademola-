@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+    list-style: none;
+    text-decoration: none;
+}
+.access{
+    width: 100%;
+    height: 13vh;
+    background-color: #F1F1F1;
+
+}
+.bank .plc{
+    display: flex;
+
+}
+
+   
+   
+
+
+
+
+    
